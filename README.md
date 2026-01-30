@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valentina-Bianchini
-- 👀 I’m interested in arduino uno, c++ programming, c#, .NET, JS apps, Python apps and Transact-SQL databases.
-- 🌱 I’m currently learning c++, Python, JS, CSS and HTML.
-- 💞️ I’m looking to collaborate on creating simple apps.
+- 👀 I’m interested in Testing Automation using JAVA, TS, Python and Transact-SQL databases.
+- 🌱 I’m currently learning to develop AI agents for specific purposes.
+- 💞️ I’m looking to collaborate on creating testing frameworks for easy use and efficient reporting.
 - 📫 How to reach me: To my mail bianchinival19@gmail.com.
 
 <!---
